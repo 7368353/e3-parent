@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3-common/e3-common.iml" filepath="$PROJECT_DIR$/e3-common/e3-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-dao/e3-manager-dao.iml" filepath="$PROJECT_DIR$/e3-manager-dao/e3-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-dao_main.iml" group="e3-manager-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-dao_test.iml" group="e3-manager-dao" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-interface/e3-manager-interface.iml" filepath="$PROJECT_DIR$/e3-manager-interface/e3-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-interface_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-interface_main.iml" group="e3-manager-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-interface_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-interface_test.iml" group="e3-manager-interface" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-pojo/e3-manager-pojo.iml" filepath="$PROJECT_DIR$/e3-manager-pojo/e3-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-pojo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-pojo_main.iml" group="e3-manager-pojo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-pojo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-pojo_test.iml" group="e3-manager-pojo" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-service/e3-manager-service.iml" filepath="$PROJECT_DIR$/e3-manager-service/e3-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-service_main.iml" group="e3-manager-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-service_test.iml" group="e3-manager-service" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-web/e3-manager-web.iml" filepath="$PROJECT_DIR$/e3-manager-web/e3-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-web_main.iml" group="e3-manager-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager-web_test.iml" group="e3-manager-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager_main.iml" group="e3-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-manager_test.iml" group="e3-manager" />
+      <module fileurl="file://$PROJECT_DIR$/e3-parent.iml" filepath="$PROJECT_DIR$/e3-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-parent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-parent_main.iml" group="e3-parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-parent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-parent_test.iml" group="e3-parent" />
+    </modules>
+  </component>
+</project>
